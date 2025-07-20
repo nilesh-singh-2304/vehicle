@@ -13,7 +13,7 @@ import dummyRoute from "@/public/dummy-route.json";
 
 // Car icon
 const carIcon = new L.Icon({
-  iconUrl: "/car-icon.jpg",
+  iconUrl: "/car-door-1.png",
   iconSize: [40, 40],
   iconAnchor: [20, 40],
 });
